@@ -33,17 +33,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6d0118_000.yaml, hash: 'sha256:44884f00560bdda59665bb685d9e192bf8f6338f102450edea0e0dc8c683f9f6'}
+  - {seq: 0, filename: KR6d0118_000.yaml, hash: 'sha256:163d2cea197517bcb20395e4ea540f3da4f50d3024e4a4df5468f80fc406cc34'}
   - {seq: 1, filename: KR6d0118_001.yaml, hash: 'sha256:9452806a80d41587612bdf561895c91a3298bb78239a25810f4b8ef8307bc1b6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0118_000.markers.yaml, hash: 'sha256:0de7f7cce403185b6fb190ee816a7bd7b97718ced784cb8824b53455d4f24902'}
+  - {seq: 0, role: markers, filename: assets/KR6d0118_000.markers.yaml, hash: 'sha256:0bd2a7b858c6404b2dc6250b5693c27baf3b5d92a52a92f7b32b4872ff41927c'}
   - {seq: 1, role: markers, filename: assets/KR6d0118_001.markers.yaml, hash: 'sha256:f701cb3a3a64f17aef20c997be0acaad052ae033095d2fe327e997770b5630b4'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6d0118_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 無量義經序
@@ -89,7 +89,7 @@ table_of_contents:
   label: 3 十功德品
   type: mulu
   level: 1
-hash: sha256:0bd5a93d0f271266068fcd0189189b2c6b0b4bc6426a4456cbdefe93fabd22f6
+hash: sha256:aebaefe1fcf88159bfe65b6a517822968694f44c138197829f038b16e5cb5abd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
